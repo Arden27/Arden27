@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Artem. Checkout my work:
+Honey Marketplace - the online store I'm curently working on in collaboration with another dev. Code [here](github.com/Arden27/honey_marketplace). Checkout live [DEMO](vercel.com/honey-marketplace.app).
 
 <!--
 **Arden27/Arden27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
