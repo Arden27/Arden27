@@ -1,4 +1,4 @@
-Hi there 👋 My name is Artem.  
+Hi there 👋 My name is Artem 😉  
 I spend my sleepless nights scratching beyond the surface of the programming realm 🙃  
   
 Check out some of my work:  
