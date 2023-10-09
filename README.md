@@ -1,9 +1,9 @@
 Hi there 👋 My name is Artem. I spend my sleepless nights scratching beyond the surface of the programming realm 😄  
 Check out some of my work:  
-[Honey Marketplace](https://honey-marketplace.vercel.app/sklep) - the online store I'm curently working on in collaboration with another dev. Code [here](github.com/Arden27/honey_marketplace). Check out live [DEMO](https://honey-marketplace.vercel.app/sklep).  
-[Receipts App](https://artman.pythonanywhere.com/receiptapp/login?portfolio=true) - the financial app for tracking expenses. Right now has the core functionaity to CRUD the receipts, login and DB sync. In the future update planning to add OCR for automatic receipt scanning and parsing. Code [here](github.com/Arden27/receipts). Check out live [DEMO](https://artman.pythonanywhere.com/receiptapp/login?portfolio=true).  
-[Portfolio](artemfurman.tech) - alfa version of my portfolio. Has a Chatbot Avatar I build, you can use it to ask any questions about my background and skills. Code is [here](github.com/Arden27/portfolio). Check out [LIVE](artemfurman.tech).  
-[Flaw-to-crypto Converter](artman.pythonanywhere.com/flaws) - my first JQuery + Django pet-project I was doing before I started diving into React. Just to compare the progress :-) Planning to rewrite this with TS/next.js, have some funny idea for it 🤔 [Code](github.com/Arden27/flaw-to-crypto). Live demo is [here](artman.pythonanywhere.com/flaws).  
+[Honey Marketplace](https://honey-marketplace.vercel.app/sklep) - the online store I'm curently working on in collaboration with another dev. Code [here](https://github.com/Arden27/honey_marketplace). Check out live [DEMO](https://honey-marketplace.vercel.app/sklep).  
+[Receipts App](https://artman.pythonanywhere.com/receiptapp/login?portfolio=true) - the financial app for tracking expenses. Right now has the core functionaity to CRUD the receipts, login and DB sync. In the future update planning to add OCR for automatic receipt scanning and parsing. Code [here](https://github.com/Arden27/receipts). Check out live [DEMO](https://artman.pythonanywhere.com/receiptapp/login?portfolio=true).  
+[Portfolio](artemfurman.tech) - alfa version of my portfolio. Has a Chatbot Avatar I build, you can use it to ask any questions about my background and skills. Code is [here](https://github.com/Arden27/portfolio). Check out [LIVE](artemfurman.tech).  
+[Flaw-to-crypto Converter](artman.pythonanywhere.com/flaws) - my first JQuery + Django pet-project I was doing before I started diving into React. Just to compare the progress :-) Planning to rewrite this with TS/next.js, have some funny idea for it 🤔 [Code](https://github.com/Arden27/flaw-to-crypto). Live demo is [here](artman.pythonanywhere.com/flaws).  
 
 
 <!--
