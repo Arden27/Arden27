@@ -8,7 +8,7 @@ Check out some of my work:
   
 [Portfolio](https://artemfurman.tech) - Alpha version of my portfolio. It features a Chatbot Avatar I built; you can use it to ask any questions about my background and skills. Code is [here](https://github.com/Arden27/portfolio). Check out [LIVE](https://artemfurman.tech).  
   
-[Flaw-to-crypto Converter](http://artman.pythonanywhere.com/flaws) - This was my initial venture into programming with JQuery and Django before I transitioned to React. I've included it here as a benchmark to showcase the strides I've made in my newer projects 🙂 Planning to rewrite this with TS/Next.js, as I have some funny ideas for it 🤔 [Code](https://github.com/Arden27/flaw-to-crypto). Live demo is [here](http://artman.pythonanywhere.com/flaws).
+[Flaw-to-Crypto Converter](http://artman.pythonanywhere.com/flaws) - This was my initial venture into programming with JQuery and Django before I transitioned to React. I've included it here as a benchmark to showcase the strides I've made in my newer projects 🙂 Planning to rewrite this with TS/Next.js, as I have some funny ideas for it 🤔 [Code](https://github.com/Arden27/flaw-to-crypto). Live demo is [here](http://artman.pythonanywhere.com/flaws).
 
 
 <!--
