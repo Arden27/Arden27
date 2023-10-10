@@ -6,7 +6,7 @@ Check out some of my work:
   
 [Receipts App](https://artman.pythonanywhere.com/receiptapp/login?portfolio=true) - A financial React/Django/REST app for tracking expenses. Right now, it has the core functionality to CRUD the receipts, login, and DB sync. In a future update, I'm planning to add OCR for automatic receipt scanning and parsing. Code [here](https://github.com/Arden27/receipts). Check out live [DEMO](https://artman.pythonanywhere.com/receiptapp/login?portfolio=true).  
   
-[Portfolio](https://artemfurman.tech) - Alpha version of my portfolio. It features a Chatbot Avatar I built; you can use it to ask any questions about my background and skills. Code is [here](https://github.com/Arden27/portfolio). Check out [LIVE](https://artemfurman.tech).  
+[Portfolio](https://artemfurman.tech) - Beta version of my portfolio Next.js app. It features a Chatbot Avatar I built; you can use it to ask any questions about my background and skills. Code is [here](https://github.com/Arden27/portfolio). Check out [LIVE](https://artemfurman.tech).  
   
 [Flaw-to-Crypto Converter](http://artman.pythonanywhere.com/flaws) - This was my initial venture into programming with JQuery and Django before I transitioned to React. I've included it here as a benchmark to showcase the strides I've made in my newer projects 🙂 Planning to rewrite this with TS/Next.js, as I have some funny ideas for it 🤔 [Code](https://github.com/Arden27/flaw-to-crypto). Live demo is [here](http://artman.pythonanywhere.com/flaws).
 
